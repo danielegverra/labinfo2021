@@ -1,0 +1,17 @@
+Lanterna 0
+Arco 0
+Spada 0
+Elsa 0
+Mantello 0
+Coltello 0
+Cetra 0
+Pozione 0
+Chiave 0
+Talismano 0
+Pagnotta 0
+Pianta 0
+Pergamena 0
+Pietra 0
+Ciocca 0
+Carne 0
+Squama 0

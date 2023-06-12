@@ -1,0 +1,72 @@
+SPIAGGIA 
+Dietro di te, a NORD dell'isola, vedi i resti della NAVE, è quasi del tutto distrutta eppure dovresti riuscire ad entrarci... l'ambiente intorno è molto boscoso ma, in lontananza verso SUD, riesci a vedere una TORRE...
+NAVE RELITTO
+"Caspita, la nave è davvero messa male... non credo potrò rimetterla a posto presto. Dovrei cercare di recuperare qualcosa almeno..."; sei circondato dalle assi spezzate della nave, riesci a vedere un coltello da caccia e un antico mantello, non lo avevi mai visto... sembra nascondere qualcosa di misterioso.
+MERCATO
+Il mercato pullula di gente, è difficile farsi spazio tra le bancarelle strabordanti di cibo... i bambini scorrazzano avanti e indietro inseguendo una povera pecorella, le anziane del villaggio li osservano divertite chiacchierando tra loro; posi gli occhi sulla bancarella davanti a te (SUD), del pane dorato e fumante è stato posato su un vassoio della tavola e il tuo stomaco comincia a brontolare.
+BANCARELLA
+Il panettiere è indaffarato nella preparazione nella preparazione di alcuni dolci... una ragazza sta servendo i numerosi clienti che circondano la bancarella... i tuoi occhi non riescono a distaccarsi dalla pagnotta fumante... non hai soldi con te, l'unico modo per ottenerla è rubarla...
+VIALE 
+Ti trovi lungo un ampio viale... è delimitato da altissimi alberi, sotto consiglio dell'uomo misterioso decidete di restare qui per rifocillarvi... a SUD vedi un'imponente TORRE, ma prima di andarci dovresti interagire con l'uomo.
+CORTILE DELLA TORRE
+Raggiungi finalmente la torre dell’isola, si trova a pochi passi da te ma l’entrata è sorvegliata … guardando nei paraggi noti un grosso e vecchio albero poco più a EST.
+CIMA DELL'ALBERO
+Raggiunta la cima dell’albero si potrà osservare un bel panorama ma non si potrà far altro che entrare dalla finestra ad OVEST… è chiusa a chiave! 
+ANDRONE DELLA TORRE
+Accidenti, ci sono un sacco di guardie a protezione del portone... e' proprio una fortuna avere con te questo mantello, sarebbe saggio indossarlo...
+SECONDO PIANO DELLA TORRE
+La TORRE sembrava più grande dall’esterno... nonostante ciò, il secondo piano è costituito da un’ampia stanza... purtroppo sono presenti molte guardie sia ad EST che ad OVEST, devi stare attento, potresti prendere le scale a NORD se vuoi... 
+PRIMO PIANO DELLA TORRE
+"Finalmente nel cuore della TORRE..." pensi tra te e te... procedendo a OVEST sembra possibile raggiungere un altro ambiente mentre a EST vedi una porta chiusa.
+STANZA OVEST
+"Questa stanza è veramente piccola, spero che almeno ci sia qualcosa di utile" ... I muri di questa stanza sembrano un po' sporchi. A EST si trova il PIANO INFERIORE.
+STANZA SUD
+"Questa stanza è davvero buia, c'è solo un'antica libreria... che strano, i libri sembrano tutti perfettamente allineati tranne uno." (forse dovresti SPINGERLO)
+ENTRATA SOTTOPASSAGGIO
+"Che posto misterioso, mhhh... forse quello strano essere può indicarmi la strada" ... più a SUD c'è un corridoio, ma quello gnomo non sembra aver intenzione di lasciar passare qualcuno così facilmente...(dovresti forse INTERAGIRE con lui)
+CORRIDOIO SOTTOPASSAGGIO 
+Il corridoio sembra infinito, le pareti sono molto strette... 
+FINE SOTTOPASSAGGIO
+"Sembrerebbe un vicolo cieco... laggiù c'è un piedistallo che sorregge qualcosa... sembra il pezzo di uno strano talismano, si vede subito che è incompleto" 
+ESTERNO SOTTOPASSAGGIO 
+Osservando il paesaggio davanti a te (SUD) salta subito all'occhio un'enorme e fitta FORESTA, sembra esplorabile...
+ENTRATA DELLA FORESTA
+Ti chiedi come mai il SOTTOPASSAGGIO attraversato precedentemente conduca proprio in questa foresta sperduta... decidi di non perderti d’animo e di continuare la tua ricerca esplorando la FORESTA. A EST della FORESTA si presenta un foltissimo CAMPO DI ERBE, dalla parte opposta (OVEST) della foresta è presente una "CASETTA" sperduta nel verde,davanti a te invece (SUD), si intravede un PERCORSO talmente FITTO che è impossibile comprendere dove porti…  
+CASETTA
+La CASETTA è realizzata interamente in legno, dall’esterno sembra essere poco curata... ma ... è una strega quella seduta vicino al camino?
+PERCORSO FITTO
+Qui la vegetazione è fittissima ma in lontananza, verso SUD, si scorge un lago...
+CAMPO DI ERBE
+Ci sono delle erbe... sembrano essere utili per preparare miscugli e pozioni!
+RIVA 1
+L'ambiente sembra quasi fatato... all'ombra di quell'albero, su uno scoglio, giace una sirena...
+INTERNO DEL LAGO
+"In questo punto il lago è davvero profondo... l'acqua è densa e pesante ma fortunatamente, grazie alla pozione, è facile per me respirare sott'acqua". Dovresti SCENDERE più in fondo.
+PROFONDITA' DEL LAGO
+"L'acqua qui è molto fredda, brrr!" Il fondale presenta una piccola rientranza...
+RIVA 2 DEL LAGO
+L'effetto della pozione sembra essere finito... non potrai tornare indietro... non perderti d'animo, questi sono gli imprevisiti dell'avventura! Riesci a vedere un viale per un villaggio (OVEST), a EST un'irta COLLINA domina il paesaggio mentre ad SUD si apre uno strano deserto, sembra pericoloso... 
+COLLINA 
+Nulla di interessante, è semplicemente una alta COLLINA da cui si può scorgere un suggestivo paesaggio boschivo... dall'alto si può osservare l'isola bagnata dal mare.
+PERCORSO 3
+È un percorso sterrato, delimitato da due muretti di pietra ... al lato del percorso noti una piccola CAPANNA (sembra possibile entrarci) e un cartello stradale che recita: "(OVEST) Villaggio degli Elfi | Lago (EST)"
+CAPANNA
+Ci si trova all'interno di una vecchia CAPANNA... nonostante dall'esterno sembri instabile e precaria, l'interno è davvero curato e pulito, al centro c'è un BAULE... 
+VILLAGGIO ELFI
+Che strano villaggio, le numerose case sono molto più basse del normale. In giro non si vede nessuno, ma si sentono delle voci provenire da due strutture: una TAVERNA e un BAZAR, in particolare quest'ultimo sembra molto affollato... 
+TAVERNA
+E' una TAVERNA molto rustica, dietro il bancone non c'è nessuno... ma quello è ... Mortimer! Ti fa segno di avvicinarti...  
+BIVIO
+Sei arrivato ad un BIVIO, NORD c'è il VILLAGGIO DEGLI ELFI, a OVEST la strada è bloccata da un gregge di pecore mentre procedendo ad EST si legge un cartello ... “ADDESTRAMENTO ELFI”...  
+CAMPO DI ADDESTRAMENTO
+Un largo recinto in legno circonda il CAMPO DI ADDESTRAMENTO. Il terreno è irregolare, con qualche pianta qui e lì. Numerosi elfi si stanno allenando duramente, ma non sembra il caso di disturbarli... A OVEST c'è un BIVIO che porta al VILLAGGIO, a SUD invece un posto strano...
+GROTTA DEL DRAGO
+Appena entrati nella galleria un odore molto forte di zolfo pervade le tue narici, il posto è sicuramente quello giusto. Decidi di proseguire nei tunnel e alla fine uno di questi lo porta in una grotta enorme dove si nota un ammasso di corpi senza vita sparsi per terra e un drago dalle squame lucenti che sembra riposare in un angolo della grotta... il drago si sveglierà e lo fisserà con i suoi occhi pece... attento sta per attaccarti!
+BAZAR
+Entrati nel BAZAR ci si accorge subito che è molto più spazioso di quanto dovrebbe essere, Amelia è proprio la persona giusta per questo tipo di lavoro... in un angolo c’è un calderone con una poltiglia che sta cuocendo e seduta sul tavolo ad aspettarti c’è proprio Amelia, che con aria estremamente scontrosa ti chiede senza mezzi termini cosa tu voglia da lei...
+STONHENGE
+Fantastico! Una radura con dei massi disposti in maniera circolare che convergono verso il centro del prato, al centro della composizione c’è un enorme masso... sulla superficie, nella parte centrale un foro, come se mancasse qualcosa... (sembre che un'ELSA vada INCASTRATA)
+ARENA SOTTERRANEA
+Sembra una piccola arena scavata nella terra... al centro vi si trova un ciclope, sembra molto arrabbiato! :( Il ciclope tira un pugno sul pavimento facendo tremare tutto e ti ritrovi sul pavimento... il ciclope è pronto a colpirti, è arrivato il momento di agire!
+STANZA DEL TESORO
+Dall'angolo della stanza spunta Mortimer... si avvicina a te e ti svela tutta la verità riguardo la tua avventura.
